@@ -14,7 +14,7 @@ namespace GitCommands
                 .RuleFor(x => x.Age, x => 2022 - x.Person.DateOfBirth.Year)
                 .Generate(100);
 
-            var tenEmployees = employees.Take(10).ToList();
+            var fifteenEmployees = employees.Take(15).ToList();
 
             foreach (var employee in tenEmployees)
             {
