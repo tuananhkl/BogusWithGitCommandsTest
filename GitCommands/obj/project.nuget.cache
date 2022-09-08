@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiU9fC1zohCnKgfWCEE3QLeQbC7SpQTjc+ZqKlDzOak+PYyk3SWGUwwLt78uWDsgi02I/hrwof2mDiXFP2QK/g==",
+  "success": true,
+  "projectFilePath": "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/GitCommands.csproj",
+  "expectedPackageFiles": [
+    "/Users/thn/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

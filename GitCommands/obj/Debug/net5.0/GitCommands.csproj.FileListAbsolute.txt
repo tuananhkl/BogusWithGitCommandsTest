@@ -1,0 +1,17 @@
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/GitCommands.deps.json
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/GitCommands.runtimeconfig.json
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/GitCommands.runtimeconfig.dev.json
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/GitCommands.dll
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/ref/GitCommands.dll
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/GitCommands.pdb
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/bin/Debug/net5.0/Bogus.dll
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.AssemblyInfo.cs
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.csproj.CopyComplete
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.dll
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/ref/GitCommands.dll
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.pdb
+/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/Debug/net5.0/GitCommands.genruntimeconfig.cache
