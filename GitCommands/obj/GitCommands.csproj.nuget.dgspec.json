@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/GitCommands.csproj": {}
+    "C:\\Users\\anh.nguyen50\\Documents\\Rider\\NTQ\\BogusWithGitCommandsTest\\GitCommands\\GitCommands.csproj": {}
   },
   "projects": {
-    "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/GitCommands.csproj": {
+    "C:\\Users\\anh.nguyen50\\Documents\\Rider\\NTQ\\BogusWithGitCommandsTest\\GitCommands\\GitCommands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/GitCommands.csproj",
+        "projectUniqueName": "C:\\Users\\anh.nguyen50\\Documents\\Rider\\NTQ\\BogusWithGitCommandsTest\\GitCommands\\GitCommands.csproj",
         "projectName": "GitCommands",
-        "projectPath": "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/GitCommands.csproj",
-        "packagesPath": "/Users/thn/.nuget/packages/",
-        "outputPath": "/Users/thn/RiderProjects/Git/GitCommands/GitCommands/obj/",
+        "projectPath": "C:\\Users\\anh.nguyen50\\Documents\\Rider\\NTQ\\BogusWithGitCommandsTest\\GitCommands\\GitCommands.csproj",
+        "packagesPath": "C:\\Users\\anh.nguyen50\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anh.nguyen50\\Documents\\Rider\\NTQ\\BogusWithGitCommandsTest\\GitCommands\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/thn/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\anh.nguyen50\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
